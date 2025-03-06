@@ -13,8 +13,8 @@ To install this package, you can download the source code and install it directl
 # Install devtools if you don't have it
 # install.packages("devtools")
 
-# Install the package from GitHub (if it's published there)
-devtools::install_github("yourusername/z-value-p-value")
+# Install the package from GitHub 
+devtools::install_github("turalu4/z-value-p-value")
 
 # Or install from a local path if you have the .tar.gz file
 # install.packages("path/to/z-value-p-value_0.1.0.tar.gz", repos = NULL, type = "source")
